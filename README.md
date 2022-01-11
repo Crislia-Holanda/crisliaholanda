@@ -1,6 +1,4 @@
 ## Boas Vindas ao meu portfólio no git 💖
-
-- :blue_book: :green_book:  Atualmente estudando e desenvolvendo em  python e Django.
   
  <div align="center">
   <h2>Conhecimentos</h2>
@@ -11,6 +9,9 @@
  <img align="center" alt="Ra-fa-CSS" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
  <img align="center" alt="Ra-fa-Html" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
  <img align="center" alt="Ra-fa-Html" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+ <img align="center" alt="Ra-fa-Html" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+
+
   <h2></h2>
 </div>
 
