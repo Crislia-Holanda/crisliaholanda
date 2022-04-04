@@ -2,8 +2,8 @@
   
  <div align="center">
   <h2>Conhecimentos</h2>
-  <img align="center" alt="Ra-fa-Django" height="90" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />   
-  <img     align="center" alt="Ra-fa-Python" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Ra-fa-Django" height="90" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" /> 
+  <img align="center" alt="Ra-fa-Python" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   
   <h2>Outros</h2>
  <img align="center" alt="Ra-fa-Javascript" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
